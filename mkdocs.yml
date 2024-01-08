@@ -1,0 +1,20 @@
+site_name: "ROL Knowledge Base"
+theme:
+  name: "material"
+  font:
+    text: Avenir
+  logo: images/money-circle.png
+extra:
+  generator: false # Remove MkDocs link in footer
+extra_css:
+  - stylesheets/main.css
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md
+  - blog:
+      blog_dir: journal
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
