@@ -20,4 +20,3 @@ tags: [finance, journal]
 
 ## Finance Journal
 
-- 2023-12-28: Mahama Paid JRO $500 towards Prototype v1

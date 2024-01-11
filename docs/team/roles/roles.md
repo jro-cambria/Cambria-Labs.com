@@ -22,6 +22,7 @@ Each team has a Client Liaison. The Client Liason is responsible for the client 
 Product Managers, in close collaboration with their teams, help their company ship the right product. They build products by defining and iterating towards the right outcomes, and continuously validating and iterating towards the right solution, being responsive to changing user demands and market realities.
 
 Responsible for:
+
 - Product Vision
 - Product Strategy
 - Product Roadmap

@@ -5,7 +5,7 @@ tags: [team]
 
 # Our Team
 
-- Product Leader: Mahama
+- Product Leader: 
 - Product Manager: 
 - Product Designer:
     - Interactive Design Protoytypes
