@@ -1,5 +1,5 @@
 ---
-title: "Explore Tags"
+title: "Tag Index"
 ---
 
 # Explore Tags

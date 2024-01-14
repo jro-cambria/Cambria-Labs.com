@@ -5,7 +5,7 @@ tags: [client, templates]
 
 
 
-# Our ⭐️ Client Persona
+# ⭐️ Client Persona
 
 
 
@@ -17,18 +17,38 @@ tags: [client, templates]
 - How are they solving them today?
 
 ## Needs
+- Turn a great idea into a prototype
 
 ## Behaviors
 
-## Where they hang out
 
+## Where they hang out
+### Physical
+- Business Incubators
+- Co-working spaces
+- Creative spaces - Music studios & art galleries
+- Tech Meet-ups
+- Hack-a-thons
+- Corporate "Skunk-works" labs
+- Dog parks
+
+### Virtual
+- Slack
+- GitHub
+- Hackernews
+- Discord
 
 
 ## What they read & watch
+- Hackernews
+- Maker-space forums
+- Wikipedia
 
 
 
 ## Daily Routines
+- Walk dog
+- Hang with kids
 
 ## Assumptions
 

@@ -1,9 +1,9 @@
-site_name: "ROL Knowledge Base"
+site_name: "Cambria Labs"
 theme:
   name: "material"
   font:
     text: Avenir
-  logo: images/money-circle.png
+  logo: images/cambria-logo-cropped.png
 extra:
   generator: false # Remove MkDocs link in footer
 extra_css:

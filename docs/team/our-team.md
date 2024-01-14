@@ -4,8 +4,9 @@ tags: [team]
 ---
 
 # Our Team
-
-- Product Leader: 
+- Team Leader: 
+- Legal Expert: 
+- Finance Expert
 - Product Manager: 
 - Product Designer:
     - Interactive Design Protoytypes
@@ -14,4 +15,4 @@ tags: [team]
     - `___`
     - Application platform / DevOps
 - Social Media
-- Relationship Expert
+- Client Liason
