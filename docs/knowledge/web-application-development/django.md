@@ -3,8 +3,12 @@ title: "Django Knowledge"
 tags: [web-application-development]
 ---
 
-# Django
-## Web application Framework
+# Web application development / Framework / Django Knowledge
+Updated: 2024-01-16 / JRO
+
+## What is Django?
+
+## Why Django?
 
 ## Official
 - [Django Project website](https://www.djangoproject.com/)
