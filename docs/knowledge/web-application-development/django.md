@@ -71,8 +71,33 @@ Updated: 2024-01-16 / JRO
 ## Deployment
 - [Django Deployment Checklist](https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/)
 
+### Application Containers (Docker)
+- How to Dockerize a Django Application
+
+## Hosting
+- Research: AWS, Render, DigitalOcean, Hetzner
+
 ## Security
 - [Django security](https://docs.djangoproject.com/en/5.0/topics/security/)
+- HTTPS
+
+## Monitoring
+### Monitoring Tools
+- Research: Sentry, New Relic
+
+## Scaling
+### Caching
+### Task Queues
+### Optimizing Database
+
+## Internationalization
+
+## Continuous Integration / Deployment
+- Automated Testing
+- Deployment
+
+## Inspiration
+- Django Code bases to learn from
 
 ## Python
 - [Python Package Index (PyPI)](https://pypi.org/)
@@ -96,6 +121,52 @@ Updated: 2024-01-16 / JRO
 - https://www.postgresql.org/
   - https://www.postgresql.org/docs/
 - [Django PostgreSQL notes](https://docs.djangoproject.com/en/5.0/ref/databases/#postgresql-notes)
+
+## HTML
+- Templates
+
+## Styles (CSS)
+
+### Style Frameworks
+
+## Code Editor
+- Visual Studio Code
+
+## Models
+
+## Views
+
+## Forms
+- Formsets
+- Model forms
+
+## Management
+
+## Search
+- Django Search
+### External Search Libraies
+
+## Troubleshooting
+- DJango Debug Toolbar
+- Profiling a Django Application
+- Debugging a Django Application
+
+## Templates
+- Django Template language  
+
+## URL Routing
+
+## User Authentication
+
+## User Groups and Permissions
+
+## API
+- Django REST Framework
+- API documentation
+- Securing API endpoints
+
+## Payment Processing
+- Stripe
 
 ## Pip
 - https://pip.pypa.io

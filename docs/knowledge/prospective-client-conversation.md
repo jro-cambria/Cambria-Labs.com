@@ -22,12 +22,13 @@ Updated: 2024-01-16
 
 ### Vision and Objectives (10 minutes)
 - Define: client's long-term Vision
-- Specific business Goals & Objectives
+- Specific business [Goals & Objectives]
   - `___`
   - `___`
   - `___`
 
 ### Customer Insights (15 minutes)
+
 - Discuss Customer Feedback and Data
 - Explore Market Research
 - (Principles from "The Mom Test" to discovery valuable insights)
