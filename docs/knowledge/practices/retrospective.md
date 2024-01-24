@@ -11,6 +11,8 @@ tags: [agile, practices, retrospective, templates]
 
 ## How
 
+## When
+- Every Friday
 
 
 
