@@ -70,7 +70,13 @@ str.join
 ### Remove Prefix
 https://docs.python.org/3/library/stdtypes.html#str.removeprefix
 ```
- str.removeprefix()
+ # str.removeprefix()
+
+ 'TestHook'.removeprefix('Test')
+'Hook'
+
+'BaseTestCase'.removeprefix('Test')
+'BaseTestCase'
 ```
 
 ### Remove Suffix
