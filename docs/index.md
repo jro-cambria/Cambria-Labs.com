@@ -6,16 +6,11 @@ title: "📘 Home"
 
 
 ## Product
--   [Vision](product/product-vision.md) 
-    
+-   [Vision](product/product-vision.md)  
 -  [Clients](client/client-persona.md) & Problems solved
-
 -  [Roadmap](product/product-roadmap.md) 
-
 -  [Backlog](product/product-backlog.md) 
-
--  (Code Repository
-    
+-  [Code Repository](https://github.com/cambria-labs/)
 
 
 ## Team
