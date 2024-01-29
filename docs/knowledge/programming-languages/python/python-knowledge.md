@@ -291,9 +291,16 @@ d = datetime.datetime(2010, 7, 4, 12, 15, 58)
 '2010-07-04 12:15:58'
 ```
 
-### Database files
+## Database files
 
 Store database in memory
 ```
 con = sqlite3.connect(":memory:")
 ```
+
+## Random
+- https://docs.python.org/3/library/random.html#examples
+
+## Text to speech
+- https://thepythoncode.com/article/convert-text-to-speech-in-python
+- https://github.com/coqui-ai/TTS
